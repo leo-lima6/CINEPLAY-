@@ -1,0 +1,2 @@
+# CINEPLAY-
+Aplicativo de entretenimento. 
